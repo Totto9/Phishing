@@ -40,18 +40,18 @@ Here are some general steps you can take to scan an .eml file:
 
 # TryHackMe Phishing Analysis Fundamentals
 
-TryHackMe Phishing Emails 1
+## TryHackMe Phishing Emails 1
 
-Task 1 Introduction
+## Task 1 Introduction
 
 No answer needed
 
-Task 2 The Email Address
+## Task 2 The Email Address
 
 Email dates back to what time frame? 
 1970’s
 
-Task 3 Email Delivery
+## Task 3 Email Delivery
 
 What port is classified as Secure Transport for SMTP? 
 
@@ -66,7 +66,7 @@ What port is classified as Secure Transport for POP3?
 -(POP3 stands for Post Office Protocol version 3, a standard protocol for retrieving email from a mail server)
 995
 
-Task 4 Email Headers
+## Task 4 Email Headers
 
 What email header is the same as "Reply-to"?
 
@@ -75,7 +75,7 @@ Once you find the email sender's IP address, where can you retrieve more informa
 
 http://www.arin.net
 
-Task 5 Email Body
+## Task 5 Email Body
 
 In the above screenshots, what is the URI of the blocked image? 
 
@@ -164,7 +164,7 @@ put the link http in Input
 select Recipe select Delang Url you’ll get the answer
 
 
-Task 7 Conclusion
+## Task 7 Conclusion
 
 What is BEC?
 
